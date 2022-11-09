@@ -7,3 +7,19 @@
     text-align: end;
     font-size: x-large;
 }
+
+.card-body {
+    background-color: #222222;
+}
+
+.btn-outline-danger {
+    background-color: #DC3545;
+    color: #FFF2CF;
+    border: 1px solid black;
+}
+
+.btn-outline-primary {
+    background-color: #007BFF;
+    color: #FFF2CF;
+    border: 1px solid #222222;
+}
